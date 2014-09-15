@@ -6,7 +6,6 @@ gem 'guard-rspec'
 gem 'guard-cucumber'
 gem 'rb-fsevent'
 gem 'rb-inotify', :require => false
-gem 'rb-fsevent', :require => false
 gem 'fuubar'
 gem 'fuubar-cucumber'
 gem 'simplecov', :require => false, :group => :test
